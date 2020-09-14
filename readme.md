@@ -1,7 +1,7 @@
 # Hello! :wave:
 
 ## 👨🏻‍💻 About Me
-Hi! I'm Dario. I'm Microsoft MVP. I'm Web Developer with 15+ years in the web industry. Passionate about C#, the web, browser automation, remote work, and the open-source community.
+Hi! I'm Dario. I'm Microsoft MVP. Web developer with 15+ years in the web industry. Passionate about C#, the web, browser automation, remote work, and the open-source community.
 
 ## I'm the author of
  * [Puppeteer-Sharp](https://github.com/hardkoded/playwright-sharp)
