@@ -20,6 +20,7 @@ Hi! I'm Dario. I'm a Microsoft MVP and web developer with 15+ years in the web i
   * 🌐 https://www.hardkoded.com
   
  ## Latest posts
+  * [My programming language is the best!](https://www.hardkoded.com/blog/my-programming-language-is-the-best)
   * [Playwright Sharp Monthly Report - September 2020](https://www.hardkoded.com/blog/playwright-sharp-monthly-sep-2020)
   * [Playwright Sharp Monthly Report - July 2020](https://www.hardkoded.com/blog/playwright-sharp-monthly-jul-2020)
   * [PlaywrightSharp v0.10 for Firefox is here!](https://www.hardkoded.com/blog/playwright-sharp-firefox-010)
