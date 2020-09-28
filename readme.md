@@ -6,13 +6,14 @@ Hi! I'm Dario. I'm a Microsoft MVP and web developer with 15+ years in the web i
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kblok&layout=compact)](https://github.com/kblok)
 
 ## I'm the author of
- * [Puppeteer-Sharp](https://github.com/hardkoded/playwright-sharp)
- * [Playwright-Sharp](https://github.com/hardkoded/playwright-sharp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hardkoded&repo=puppeteer-sharp)](https://github.com/hardkoded/puppeteer-sharp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=playwright-sharp)](https://github.com/microsoft/playwright-sharp)
 
 ## I contribute to
- * [Puppeteer](https://github.com/puppeteer/puppeteer)
- * [Playwright](https://github.com/microsoft/playwright)
- 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=puppeteer&repo=puppeteer)](https://github.com/puppeteer/puppeteer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=playwright)](https://github.com/microsoft/playwright)
+
 ## ❤️ Do you want to sponsor my projects?
 ➡️  https://github.com/sponsors/hardkoded  ⬅️
 
