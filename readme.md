@@ -3,6 +3,8 @@
 ## 👨🏻‍💻 About Me
 Hi! I'm Dario. I'm a Microsoft MVP and web developer with 15+ years in the web industry. I'm passionate about C#, the web, browser automation, remote work, and the open-source community.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kblok&layout=compact)](https://github.com/kblok)
+
 ## I'm the author of
  * [Puppeteer-Sharp](https://github.com/hardkoded/playwright-sharp)
  * [Playwright-Sharp](https://github.com/hardkoded/playwright-sharp)
@@ -11,13 +13,12 @@ Hi! I'm Dario. I'm a Microsoft MVP and web developer with 15+ years in the web i
  * [Puppeteer](https://github.com/puppeteer/puppeteer)
  * [Playwright](https://github.com/microsoft/playwright)
  
- 
 ## ❤️ Do you want to sponsor my projects?
-➡️ https://github.com/sponsors/hardkoded ⬅️
+➡️  https://github.com/sponsors/hardkoded  ⬅️
 
  ## Let's get in touch 😊
-  * 🐦 [@hardkoded](https://www.twitter.com/hardkoded)
-  * 🌐 https://www.hardkoded.com
+  * 🐦  [@hardkoded](https://www.twitter.com/hardkoded)
+  * 🌐  https://www.hardkoded.com
   
  ## Latest posts
   * [My programming language is the best!](https://www.hardkoded.com/blog/my-programming-language-is-the-best)
