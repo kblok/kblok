@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About Me
 Hi! I'm Dario. I'm a Microsoft MVP and web developer with 15+ years in the web industry. I'm passionate about C#, the web, browser automation, remote work, and the open-source community.  
-**Check out my new (and first) book [UI testing with Puppeteer](https://www.amazon.com/Testing-Puppeteer-end-end-automation-ebook/dp/B08PFPMKFX)!**
+**Check out my new (and first) book [UI testing with Puppeteer](https://www.amazon.com/Testing-Puppeteer-end-end-automation/dp/180020678X)!**
 
 [<img src="https://m.media-amazon.com/images/I/41PeYrrmrKL.jpg" width="300px"/>](https://www.amazon.com/Testing-Puppeteer-end-end-automation/dp/180020678X)
 
