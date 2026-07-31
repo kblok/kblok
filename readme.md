@@ -1,31 +1,46 @@
-# Hello! :wave:
+# Hi, I'm Dario :wave:
 
-## 👨🏻‍💻 About Me
-Hi! I'm Dario. I'm a Microsoft MVP and web developer with 15+ years in the web industry. I'm passionate about C#, the web, browser automation, remote work, and the open-source community.  
-**Check out my new (and first) book [UI testing with Puppeteer](https://www.amazon.com/Testing-Puppeteer-end-end-automation/dp/180020678X)!**
+**I spent a decade teaching .NET how to drive a browser. Now I build the AI agents that drive it for you.**
 
-[<img src="https://m.media-amazon.com/images/I/41PeYrrmrKL.jpg" width="300px"/>](https://www.amazon.com/Testing-Puppeteer-end-end-automation/dp/180020678X)
+I'm a 7-time Microsoft MVP and a software engineer with 20+ years in the web industry. These days I build AI agents that author, run, and debug end-to-end tests — and the tooling that lets a small team ship with those agents every day.
 
-[![Top languages](https://img.shields.io/badge/Top%20Languages-C%23%20%7C%20TypeScript%20%7C%20JavaScript-blue)](https://github.com/kblok)
+You may also know me as **[@hardkoded](https://github.com/hardkoded)** — that's where my projects live.
 
-## I'm the author of
+## 🤖 What I'm working on
+
+* **AI agents for testing** — agents that explore a real app, write the test, and fix it when it breaks
+* **Agentic developer tooling** — small open-source tools that make working with coding agents less painful, like [cronito](https://github.com/hardkoded/cronito)
+* Writing about all of it at [hardkoded.com](https://www.hardkoded.com)
+
+## 🛠️ What I built
+
 [<img src="https://opengraph.githubassets.com/1/hardkoded/puppeteer-sharp" width="430px" alt="puppeteer-sharp repository card"/>](https://github.com/hardkoded/puppeteer-sharp)
-[<img src="https://opengraph.githubassets.com/1/microsoft/playwright-sharp" width="430px" alt="playwright-sharp repository card"/>](https://github.com/microsoft/playwright-sharp)
+[<img src="https://opengraph.githubassets.com/1/microsoft/playwright-dotnet" width="430px" alt="playwright-dotnet repository card"/>](https://github.com/microsoft/playwright-dotnet)
 
-## I contribute to
+I wrote **puppeteer-sharp**, and the original `playwright-sharp` that became Microsoft's official **playwright-dotnet**. I also wrote a book about it all:
+
+[<img src="https://m.media-amazon.com/images/I/41PeYrrmrKL.jpg" width="160px" alt="UI Testing with Puppeteer book cover"/>](https://www.amazon.com/Testing-Puppeteer-end-end-automation/dp/180020678X)
+
+## 🤝 I contribute to
 
 [<img src="https://opengraph.githubassets.com/1/puppeteer/puppeteer" width="430px" alt="puppeteer repository card"/>](https://github.com/puppeteer/puppeteer)
 [<img src="https://opengraph.githubassets.com/1/microsoft/playwright" width="430px" alt="playwright repository card"/>](https://github.com/microsoft/playwright)
 
-## ❤️ Do you want to sponsor my projects?
-➡️  https://github.com/sponsors/hardkoded  ⬅️
+## ✍️ Latest posts
 
- ## Let's get in touch 😊
-  * 🐦  [@hardkoded](https://www.twitter.com/hardkoded)
-  * 🌐  https://www.hardkoded.com
-  
- ## Latest posts
-  * [My programming language is the best!](https://www.hardkoded.com/blog/my-programming-language-is-the-best)
-  * [Playwright Sharp Monthly Report - September 2020](https://www.hardkoded.com/blog/playwright-sharp-monthly-sep-2020)
-  * [Playwright Sharp Monthly Report - July 2020](https://www.hardkoded.com/blog/playwright-sharp-monthly-jul-2020)
-  * [PlaywrightSharp v0.10 for Firefox is here!](https://www.hardkoded.com/blog/playwright-sharp-firefox-010)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More on hardkoded.com](https://www.hardkoded.com) ⬅️
+
+## ❤️ Do you want to sponsor my projects?
+
+My open-source projects are free. Keeping them alive is not.
+
+➡️ https://github.com/sponsors/hardkoded ⬅️
+
+## Let's get in touch 😊
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/dariokondratiuk/)
+* 🌐 [hardkoded.com](https://www.hardkoded.com)
+* 🐦 [@hardkoded](https://www.twitter.com/hardkoded)
