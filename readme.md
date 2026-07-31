@@ -6,16 +6,16 @@ Hi! I'm Dario. I'm a Microsoft MVP and web developer with 15+ years in the web i
 
 [<img src="https://m.media-amazon.com/images/I/41PeYrrmrKL.jpg" width="300px"/>](https://www.amazon.com/Testing-Puppeteer-end-end-automation/dp/180020678X)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kblok&layout=compact)](https://github.com/kblok)
+[![Top languages](https://img.shields.io/badge/Top%20Languages-C%23%20%7C%20TypeScript%20%7C%20JavaScript-blue)](https://github.com/kblok)
 
 ## I'm the author of
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hardkoded&repo=puppeteer-sharp)](https://github.com/hardkoded/puppeteer-sharp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=playwright-sharp)](https://github.com/microsoft/playwright-sharp)
+[<img src="https://opengraph.githubassets.com/1/hardkoded/puppeteer-sharp" width="430px" alt="puppeteer-sharp repository card"/>](https://github.com/hardkoded/puppeteer-sharp)
+[<img src="https://opengraph.githubassets.com/1/microsoft/playwright-sharp" width="430px" alt="playwright-sharp repository card"/>](https://github.com/microsoft/playwright-sharp)
 
 ## I contribute to
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=puppeteer&repo=puppeteer)](https://github.com/puppeteer/puppeteer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=playwright)](https://github.com/microsoft/playwright)
+[<img src="https://opengraph.githubassets.com/1/puppeteer/puppeteer" width="430px" alt="puppeteer repository card"/>](https://github.com/puppeteer/puppeteer)
+[<img src="https://opengraph.githubassets.com/1/microsoft/playwright" width="430px" alt="playwright repository card"/>](https://github.com/microsoft/playwright)
 
 ## ❤️ Do you want to sponsor my projects?
 ➡️  https://github.com/sponsors/hardkoded  ⬅️
