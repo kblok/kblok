@@ -28,8 +28,7 @@ I wrote **puppeteer-sharp**, and the original `playwright-sharp` that became Mic
 
 ## ✍️ Latest posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Claude Helped Me Be Lazy, Again](https://www.hardkoded.com/blog/claude-helped-me-be-lazy-again) — Jul 31, 2026<br>- [Getting Out of Worktree Hell](https://www.hardkoded.com/blog/getting-out-of-worktree-hell) — Jul 20, 2026<br>- [Meet pr-memory, a Way to Put a Claude Code Session on Hold](https://www.hardkoded.com/blog/pr-memory) — Jul 13, 2026<br>- [Meet Cronito, a Friendlier Cron for Claude Code](https://www.hardkoded.com/blog/cronito) — Jul 7, 2026<br><!-- BLOG-POST-LIST:END -->
 
 ➡️ [More on hardkoded.com](https://www.hardkoded.com) ⬅️
 
