@@ -40,6 +40,6 @@ My open-source projects are free. Keeping them alive is not.
 
 ## Let's get in touch 😊
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/dariokondratiuk/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/dario-k-soft/)
 * 🌐 [hardkoded.com](https://www.hardkoded.com)
 * 🐦 [@hardkoded](https://www.twitter.com/hardkoded)
