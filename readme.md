@@ -28,7 +28,7 @@ I wrote **puppeteer-sharp**, and the original `playwright-sharp` that became Mic
 
 ## ✍️ Latest posts
 
-<!-- BLOG-POST-LIST:START -->- [I Connected Quicken to My AI Agent](https://www.hardkoded.com/blog/quicken-skills) — Sep 6, 2026<br>- [Stream Deck as an Agentic Productivity Tool](https://www.hardkoded.com/blog/stream-deck-as-an-agentic-productivity-tool) — Sep 4, 2026<br>- [The state of unit testing in the AI era](https://www.hardkoded.com/blog/the-state-of-unit-testing-in-the-ai-era) — Aug 14, 2026<br>- [New .NET Library in Town. Let&#39;s Welcome ReactiveExtensions-Sharp](https://www.hardkoded.com/blog/reactive-extensions-sharp) — Aug 9, 2026<br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Moving from stable worktrees to CoW, will that work?](https://www.hardkoded.com/blog/moving-from-stable-worktrees-to-cow) — Sep 9, 2026<br>- [I Connected Quicken to My AI Agent](https://www.hardkoded.com/blog/quicken-skills) — Sep 6, 2026<br>- [Stream Deck as an Agentic Productivity Tool](https://www.hardkoded.com/blog/stream-deck-as-an-agentic-productivity-tool) — Sep 4, 2026<br>- [The state of unit testing in the AI era](https://www.hardkoded.com/blog/the-state-of-unit-testing-in-the-ai-era) — Aug 14, 2026<br><!-- BLOG-POST-LIST:END -->
 
 ➡️ [More on hardkoded.com](https://www.hardkoded.com) ⬅️
 
