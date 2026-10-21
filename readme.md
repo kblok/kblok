@@ -28,7 +28,12 @@ I wrote **puppeteer-sharp**, and the original `playwright-sharp` that became Mic
 
 ## ✍️ Latest posts
 
-<!-- BLOG-POST-LIST:START -->- [Agentic testing for MAUI apps using DevFlow](https://www.hardkoded.com/blog/maui-devflow-meets-e2e-dotnet) — Oct 19, 2026<br>- [Meet Playwright Claude Mod, Your Test Results Inside Claude Code](https://www.hardkoded.com/blog/playwright-claude-mod) — Oct 6, 2026<br>- [.NET developers also deserve E2E!](https://www.hardkoded.com/blog/dotnet-developers-also-deserve-e2e) — Oct 6, 2026<br>- [Moving from stable worktrees to CoW, will that work?](https://www.hardkoded.com/blog/moving-from-stable-worktrees-to-cow) — Sep 9, 2026<br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Agentic testing for MAUI apps using DevFlow](https://www.hardkoded.com/blog/maui-devflow-meets-e2e-dotnet) — Oct 19, 2026
+- [Meet Playwright Claude Mod, Your Test Results Inside Claude Code](https://www.hardkoded.com/blog/playwright-claude-mod) — Oct 6, 2026
+- [.NET developers also deserve E2E!](https://www.hardkoded.com/blog/dotnet-developers-also-deserve-e2e) — Oct 6, 2026
+- [Moving from stable worktrees to CoW, will that work?](https://www.hardkoded.com/blog/moving-from-stable-worktrees-to-cow) — Sep 9, 2026
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [More on hardkoded.com](https://www.hardkoded.com) ⬅️
 
