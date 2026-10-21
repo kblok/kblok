@@ -19,5 +19,5 @@ jobs:
           readme_path: './readme.md'
           feed_list: 'https://www.hardkoded.com/feed.xml'
           max_post_count: 4
-          template: '- [$title]($url) — $date<br>'
+          template: '$newline- [$title]($url) — $date'
           date_format: 'mmm d, yyyy'
