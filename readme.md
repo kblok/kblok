@@ -29,10 +29,10 @@ I wrote **puppeteer-sharp**, and the original `playwright-sharp` that became Mic
 ## ✍️ Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WinUI apps also deserve E2E!](https://www.hardkoded.com/blog/winui-apps-also-deserve-e2e) — Oct 25, 2026
 - [Agentic testing for MAUI apps using DevFlow](https://www.hardkoded.com/blog/maui-devflow-meets-e2e-dotnet) — Oct 19, 2026
 - [Meet Playwright Claude Mod, Your Test Results Inside Claude Code](https://www.hardkoded.com/blog/playwright-claude-mod) — Oct 6, 2026
-- [.NET developers also deserve E2E!](https://www.hardkoded.com/blog/dotnet-developers-also-deserve-e2e) — Oct 6, 2026
-- [Moving from stable worktrees to CoW, will that work?](https://www.hardkoded.com/blog/moving-from-stable-worktrees-to-cow) — Sep 9, 2026<!-- BLOG-POST-LIST:END -->
+- [.NET developers also deserve E2E!](https://www.hardkoded.com/blog/dotnet-developers-also-deserve-e2e) — Oct 6, 2026<!-- BLOG-POST-LIST:END -->
 
 ➡️ [More on hardkoded.com](https://www.hardkoded.com) ⬅️
 
