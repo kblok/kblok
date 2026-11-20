@@ -29,10 +29,10 @@ I wrote **puppeteer-sharp**, and the original `playwright-sharp` that became Mic
 ## ✍️ Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vercel AI for .NET devs!](https://www.hardkoded.com/blog/vercel-ai-for-dotnet-devs) — Nov 18, 2026
 - [The verification layer for the agentic .NET developer](https://www.hardkoded.com/blog/the-verification-layer-for-the-agentic-dotnet-developer) — Nov 17, 2026
 - [Yet another &quot;I build a software factory&quot; post. Part 2](https://www.hardkoded.com/blog/yet-another-software-factory-post-part-2) — Nov 13, 2026
-- [Yet another &quot;I build a software factory&quot; post](https://www.hardkoded.com/blog/yet-another-software-factory-post) — Nov 12, 2026
-- [Meet the new Hardkoded docs](https://www.hardkoded.com/blog/meet-the-new-hardkoded-docs) — Oct 26, 2026<!-- BLOG-POST-LIST:END -->
+- [Yet another &quot;I build a software factory&quot; post](https://www.hardkoded.com/blog/yet-another-software-factory-post) — Nov 12, 2026<!-- BLOG-POST-LIST:END -->
 
 ➡️ [More on hardkoded.com](https://www.hardkoded.com) ⬅️
 
